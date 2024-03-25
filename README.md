@@ -1,1 +1,1 @@
-# Sensora-kiit-reaction-time-tester-game-
+#The Sensora event

@@ -66,7 +66,7 @@ Interested in contributing to the Reaction Time Game? Great! Feel free to fork t
 
 # License 📜
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the GPL - see the LICENSE.md file for details.
 
 ## Acknowledgments 🙏
 
